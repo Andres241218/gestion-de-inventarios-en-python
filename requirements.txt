@@ -1,0 +1,16 @@
+# Sistema de Gestión de Inventarios
+# Requisitos del proyecto
+
+# No se requieren dependencias externas adicionales
+# El proyecto utiliza únicamente la biblioteca estándar de Python 3.6+
+
+# Versión mínima de Python requerida: 3.6
+# Módulos utilizados:
+# - json (para persistencia de datos)
+# - os (para operaciones del sistema)
+# - sys (para manejo del sistema)
+# - datetime (para fechas)
+# - typing (para anotaciones de tipo)
+
+# Para ejecutar el proyecto:
+# python main.py
