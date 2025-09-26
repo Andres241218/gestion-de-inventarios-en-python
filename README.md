@@ -194,11 +194,3 @@ Para contribuir al proyecto:
 3. Implementa los cambios
 4. Prueba exhaustivamente
 5. Envía un pull request
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo LICENSE para más detalles.
-
-## Contacto
-
-Para preguntas o sugerencias sobre el proyecto, contacta al desarrollador o crea un issue en el repositorio.
