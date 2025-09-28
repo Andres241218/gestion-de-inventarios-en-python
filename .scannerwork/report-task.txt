@@ -2,5 +2,5 @@ projectKey=Andres241218_gestion-de-inventarios-en-python_8f59aad6-fa03-4691-8e4e
 serverUrl=http://localhost:9000
 serverVersion=25.9.0.112764
 dashboardUrl=http://localhost:9000/dashboard?id=Andres241218_gestion-de-inventarios-en-python_8f59aad6-fa03-4691-8e4e-65b4c3d3cc7e
-ceTaskId=797c178e-114b-4aac-95c4-db13a9122061
-ceTaskUrl=http://localhost:9000/api/ce/task?id=797c178e-114b-4aac-95c4-db13a9122061
+ceTaskId=0753cc80-1f8c-4b79-b9b2-34e77d0991e0
+ceTaskUrl=http://localhost:9000/api/ce/task?id=0753cc80-1f8c-4b79-b9b2-34e77d0991e0
